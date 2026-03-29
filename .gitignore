@@ -1,0 +1,16 @@
+# 1. Privacy: Do not upload your contracts or database
+contract_db/
+data/*.pdf
+temp.pdf
+
+# 2. Python: Do not upload your virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# 3. Environment: Do not upload your API keys (if you ever use them)
+.env
+
+# 4. OS: Trash files
+.DS_Store
+Thumbs.db

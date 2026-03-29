@@ -1,5 +1,4 @@
-# basic_rag_try
-# Local RAG
+# Basic RAG
 
 A private, high-accuracy RAG system for analyzing legal contracts. 
 Optimized for **Intel Ultra 5** and **Arc Graphics**.
@@ -11,5 +10,3 @@ Optimized for **Intel Ultra 5** and **Arc Graphics**.
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run app: `streamlit run src/app.py`
 
-## 🛡️ Privacy
-This system is 100% local. No data is sent to the cloud.
